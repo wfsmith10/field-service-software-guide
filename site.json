@@ -1,0 +1,12 @@
+{
+ "name": "Field Service Software Guide",
+ "tagline": "Plain-English comparisons of scheduling, quoting and invoicing software for small trade businesses, with sourced pricing and features.",
+ "origin": "https://wfsmith10.github.io",
+ "base_path": "/field-service-software-guide",
+ "author": "William Smith",
+ "contact_email": "CrucibleWorkshop@gmail.com",
+ "nav": ["scheduling-invoicing-software", "software-by-trade", "about", "contact"],
+ "footer": ["index", "scheduling-invoicing-software", "software-by-trade", "about", "affiliate-disclosure", "privacy", "contact"],
+ "disclosure_short": "Some links on this page are affiliate links. If you sign up through them, we may earn a commission at no extra cost to you. It does not change how we compare products.",
+ "footer_note": "Prices and plan features change often. Each comparison cites its source and date; confirm on the vendor's site before you buy."
+}
